@@ -1,0 +1,5 @@
+name: 'setup-vcpkg-x'
+description: 'A simple GitHub Action that prints Hello World'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
